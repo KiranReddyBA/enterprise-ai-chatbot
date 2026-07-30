@@ -142,7 +142,7 @@ The chatbot retrieves answers from 6 enterprise policy documents:
 ## Author
 
 **Kiran Kumar Reddy**
-- Email: bkkreddy1969@gmail.com
+- Email: bkkreddy17@gmail.com
 - Phone: +1 (732) 585-7199
 - GitHub: [github.com/KiranReddyBA](https://github.com/KiranReddyBA)
 

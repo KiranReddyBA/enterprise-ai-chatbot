@@ -298,7 +298,7 @@ export default function OverviewPage() {
           </div>
           <div className="flex items-center gap-4 text-sm text-muted-foreground">
             <span>Kiran Kumar Reddy</span>
-            <a href="mailto:bkkreddy1969@gmail.com" className="flex items-center gap-1 hover:text-foreground transition-colors">
+            <a href="mailto:bkkreddy17@gmail.com" className="flex items-center gap-1 hover:text-foreground transition-colors">
               <Mail className="h-3.5 w-3.5" />
               Email
             </a>
