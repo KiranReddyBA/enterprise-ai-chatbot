@@ -78,7 +78,7 @@ export default function OverviewPage() {
             <span className="font-semibold text-sm">Enterprise AI Chatbot</span>
           </div>
           <div className="flex items-center gap-3">
-            <a href="https://github.com/kiranreddy" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-foreground transition-colors">
+            <a href="https://github.com/KiranReddyBA" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-foreground transition-colors">
               <Github className="h-4 w-4" />
             </a>
             <Link href="/chat">
@@ -115,7 +115,7 @@ export default function OverviewPage() {
                   <ArrowRight className="h-4 w-4" />
                 </Button>
               </Link>
-              <a href="https://github.com/kiranreddy" target="_blank" rel="noopener noreferrer">
+              <a href="https://github.com/KiranReddyBA" target="_blank" rel="noopener noreferrer">
                 <Button size="lg" variant="outline" className="gap-2">
                   <Github className="h-4 w-4" />
                   View Source Code
@@ -306,7 +306,7 @@ export default function OverviewPage() {
               <Phone className="h-3.5 w-3.5" />
               Phone
             </a>
-            <a href="https://github.com/kiranreddy" target="_blank" rel="noopener noreferrer" className="flex items-center gap-1 hover:text-foreground transition-colors">
+            <a href="https://github.com/KiranReddyBA" target="_blank" rel="noopener noreferrer" className="flex items-center gap-1 hover:text-foreground transition-colors">
               <Github className="h-3.5 w-3.5" />
               GitHub
             </a>
